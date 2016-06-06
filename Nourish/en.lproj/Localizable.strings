@@ -1,0 +1,56 @@
+/* 
+  NRFile.strings
+  Nourish
+
+  Created by gtc on 15/5/6.
+  Copyright (c) 2015年 ___BaiduMGame___. All rights reserved.
+*/
+
+/*commonTips*/
+"app.loading" = "正在加载...";
+"app.saving" = "保存中...";
+"app.save.success" = "保存成功！";
+"app.save.failure" = "保存失败！";
+
+"app.submiting" = "提交中...";
+"app.submit.success" = "提交成功！";
+"app.submit.failure" = "提交失败！";
+
+"app.submiting" = "提交中...";
+"app.submit.success" = "提交成功！";
+"app.submit.failure" = "提交失败！";
+
+/*customPhone*/
+"app.order.customphone" = "010-68867129";
+
+/*network*/
+"app.network.response.failure" = "抱歉，网络请求失败!";
+
+/*user.register*/
+"app.register.setpwd.success" = "密码设置成功!";
+"app.register.message.success" = "恭喜你，注册成功!";
+"app.register.message.error" = "抱歉，注册失败";
+
+/*user.settings*/
+"app.setting.person.saveuserinfo.success" = "保存成功";
+"app.setting.person.saveuserinfo.failure" = "保存失败";
+
+/*user.findbackpassword*/
+"app.findbackpwd.reset.success" = "密码重置成功";
+
+/*order*/
+"app.order.status.paying" = "未付款";
+"app.order.status.paycompleted" = "已确认";
+"app.order.status.torun" = "待执行";
+"app.order.status.running" = "正在执行";
+"app.order.status.refunding" = "退款中";
+"app.order.status.refunded" = "已退款";
+"app.order.status.changing" = "变更中";
+"app.order.status.changesuccess" = "变更成功";
+"app.order.status.changefailure" = "变更失败";
+"app.order.status.confirmfailure" = "确认失败";
+"app.order.status.tocomment" = "待评价";
+"app.order.status.done" = "已完成";
+"app.order.status.cancelled" = "已取消";
+"app.order.status.canceltimeOut" = "已取消";
+"app.order.status.closed" = "订单关闭";

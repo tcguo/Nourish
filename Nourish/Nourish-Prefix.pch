@@ -1,0 +1,44 @@
+//
+//  Nourish-Prefix.pch
+//  Nourish
+//
+//  Created by gtc on 15/1/21.
+//  Copyright (c) 2015年 ___BaiduMGame___. All rights reserved.
+//
+
+#ifndef Nourish_Nourish_Prefix_pch
+#define Nourish_Nourish_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <QuartzCore/QuartzCore.h>
+    #import <CoreGraphics/CoreGraphics.h>
+
+#import "Config.h"
+#import "Constants.h"
+#import "NRClickStatisticsDefine.h"
+#import "MobClick.h"
+#import "NRNetworkClient.h"
+#import "NRGlobalManager.h"
+#import "MBProgressHUD+Nourish.h"
+#import "NSDate+DSLCalendarView.h"
+#import "UIView+BDSExtension.h"
+#import "AFNetworkReachabilityManager.h"
+//define this constant if you want to use Masonry without the 'mas_' prefix
+#define MAS_SHORTHAND
+
+//define this constant if you want to enable auto-boxing for default syntax
+#define MAS_SHORTHAND_GLOBALS
+
+#import "Masonry.h"
+
+#endif
+
+
+
